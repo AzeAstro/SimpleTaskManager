@@ -16,7 +16,7 @@ Used for listing tasks for current day. Takes no argument at execution. Required
 Usage: `python main.py list`
 
 ### Show
-Used for showing a task details. Takes no argument at execution. Required task ID.
+Used for showing a task details. Takes no argument at execution. Required task ID.  
 Usage: `python main.py show`
 
 That is it :D
