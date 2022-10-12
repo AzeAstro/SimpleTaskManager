@@ -1,9 +1,7 @@
 import argparse
 from datetime import date,datetime
-from pydoc import describe
 import sqlite3
 from sys import exit
-from turtle import title
 database=sqlite3.connect("Database.sqlite3")
 cursor=database.cursor()
 
